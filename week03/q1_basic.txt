@@ -1,0 +1,3 @@
+## pwd
+student101@linux-server1:~$ pwd
+/home/student_test
